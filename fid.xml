@@ -1,0 +1,49 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2023-12-15 12:51">
+<shop>
+<name>Многопрофильный медицинский центр «Статус Грация +»</name>
+<company>ООО Лечебно-профилактический и диагностический центр «Статус Грация +»</company>
+<url>https://status-gracia.ru/</url>
+<email>info@status-gracia.ru</email>
+<picture>https://static.tildacdn.com/tild3232-3965-4136-b734-366236313939/logo-sgp_2.png</picture>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Врач</category>
+</categories>
+<sets>
+<set id="terapevt">
+<name>Терапевт</name>
+<url>https://status-gracia.ru/doctors/</url>
+</set>
+</sets>
+<offers>
+<offer id="1">
+<url>https://status-gracia.ru/doctors/prokopenko/</url>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://static.tildacdn.com/tild6436-3061-4066-b430-653866383036/IMG_5250-06-10-21-05.JPG</picture>
+<name>Прокопенко Сергей Николаевич</name>
+<description>Терапевт, кардиолог, профпатолог. Высшая категория</description>
+<param name="Фамилия">Прокопенко</param>
+<param name="Имя">Сергей</param>
+<param name="Отчество">Николаевич</param>
+<sales_notes>Первичный прием</sales_notes>
+<param name="Онлайн-расписание">false</param>
+<param name="Годы опыта">false</param>
+<param name="Телефон для записи">+7 (812) 242-68-58</param>
+<param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/prokopenko/</param>
+<set-ids>terapevt,kardiolog,зкщазфещдщп</set-ids>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true<</param>
+<param name="Возможность записи">true</param>
+<param name="Город клиники">Санкт-Петербург</param>
+<param name="Город">Санкт-Петербург</param>
+<param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
+<param name="Название клиники">Многопрофильный медицинский центр «Статус Грация +»</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
