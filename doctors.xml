@@ -36,7 +36,7 @@
 <param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/prokopenko/</param>
 <set-ids>terapevt,kardiolog,profpatolog</set-ids>
 <param name="Взрослый врач">true</param>
-<param name="Детский врач">true<</param>
+<param name="Детский врач">true</param>
 <param name="Возможность записи">true</param>
 <param name="Город клиники">Санкт-Петербург</param>
 <param name="Город">Санкт-Петербург</param>
