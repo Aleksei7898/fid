@@ -34,7 +34,7 @@
 <param name="Годы опыта">false</param>
 <param name="Телефон для записи">+7 (812) 242-68-58</param>
 <param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/prokopenko/</param>
-<set-ids>terapevt,kardiolog,зкщазфещдщп</set-ids>
+<set-ids>terapevt,kardiolog,profpatolog</set-ids>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">true<</param>
 <param name="Возможность записи">true</param>
