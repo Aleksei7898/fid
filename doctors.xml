@@ -602,8 +602,8 @@
 <param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
 <param name="Название клиники">Центр «Статус Грация +»</param>
 </offer>
-  <offer id="22">
-<url>https://status-gracia.ru/doctors/zajczeva/?utm_source=yandexserp</url>
+<offer id="22">
+<url>https://status-gracia.ru/doctors/gremilova/?utm_source=yandexserp</url>
 <price>2200</price>
 <currencyId>RUR</currencyId>
 <categoryId>1</categoryId>
@@ -618,6 +618,31 @@
 <param name="Годы опыта">21</param>
 <param name="Телефон для записи">+7 (812) 242-68-58</param>
 <param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/gremilova/</param>
+<set-ids>ginekolog</set-ids>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Возможность записи">true</param>
+<param name="Город клиники">Санкт-Петербург</param>
+<param name="Город">Санкт-Петербург</param>
+<param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
+<param name="Название клиники">Центр «Статус Грация +»</param>
+</offer>
+<offer id="23">
+<url>https://status-gracia.ru/doctors/ponomareva/?utm_source=yandexserp</url>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://static.tildacdn.com/tild3434-3663-4533-a663-623131643261/03ddc4ed-ab11-4297-8.JPG</picture>
+<name>Пономарева Дарья Алексеевна</name>
+<description>Гинеколог</description>
+<param name="Фамилия">Пономарева</param>
+<param name="Имя">Дарья</param>
+<param name="Отчество">Алексеевна</param>
+<sales_notes>Первичный прием</sales_notes>
+<param name="Онлайн-расписание">false</param>
+<param name="Годы опыта">4</param>
+<param name="Телефон для записи">+7 (812) 242-68-58</param>
+<param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/ponomareva</param>
 <set-ids>ginekolog</set-ids>
 <param name="Взрослый врач">true</param>
 <param name="Детский врач">true</param>
