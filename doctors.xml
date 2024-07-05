@@ -602,6 +602,31 @@
 <param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
 <param name="Название клиники">Центр «Статус Грация +»</param>
 </offer>
+  <offer id="22">
+<url>https://status-gracia.ru/doctors/zajczeva/?utm_source=yandexserp</url>
+<price>2200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://static.tildacdn.com/tild6638-3531-4636-b232-336138613932/__2.jpeg</picture>
+<name>Гремилова Лидия Анатольевна</name>
+<description>Гинеколог</description>
+<param name="Фамилия">Гремилова</param>
+<param name="Имя">Лидия</param>
+<param name="Отчество">Анатольевна</param>
+<sales_notes>Первичный прием</sales_notes>
+<param name="Онлайн-расписание">false</param>
+<param name="Годы опыта">21</param>
+<param name="Телефон для записи">+7 (812) 242-68-58</param>
+<param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/gremilova/</param>
+<set-ids>ginekolog</set-ids>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Возможность записи">true</param>
+<param name="Город клиники">Санкт-Петербург</param>
+<param name="Город">Санкт-Петербург</param>
+<param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
+<param name="Название клиники">Центр «Статус Грация +»</param>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
