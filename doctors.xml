@@ -127,31 +127,7 @@
 <param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
 <param name="Название клиники">Центр «Статус Грация +»</param>
 </offer>
-<offer id="2">
-<url>https://status-gracia.ru/doctors/onegova/?utm_source=yandexserp</url>
-<price>2200</price>
-<currencyId>RUR</currencyId>
-<categoryId>1</categoryId>
-<picture>https://static.tildacdn.com/tild6437-6534-4230-a162-623965393564/_MG_2634_copy.jpg</picture>
-<name>Онегова Светлана Борисовна</name>
-<description>Врач акушер-гинеколог</description>
-<param name="Фамилия">Онегова</param>
-<param name="Имя">Светлана</param>
-<param name="Отчество">Борисовна</param>
-<sales_notes>Первичный прием</sales_notes>
-<param name="Онлайн-расписание">false</param>
-<param name="Годы опыта">15</param>
-<param name="Телефон для записи">+7 (812) 242-68-58</param>
-<param name="Ссылка на профиль врача">https://status-gracia.ru/doctors/onegova/</param>
-<set-ids>akusher-ginekolog</set-ids>
-<param name="Взрослый врач">true</param>
-<param name="Детский врач">false</param>
-<param name="Возможность записи">true</param>
-<param name="Город клиники">Санкт-Петербург</param>
-<param name="Город">Санкт-Петербург</param>
-<param name="Адрес клиники">пр., Большевиков, 11, к. 2</param>
-<param name="Название клиники">Центр «Статус Грация +»</param>
-</offer>
+
 <offer id="3">
 <url>https://status-gracia.ru/doctors/eramyshev/?utm_source=yandexserp</url>
 <price>2200</price>
